@@ -1,0 +1,44 @@
+# COLDLAVA
+# nxll <nxll@teknik.io>
+
+cursor #BFC3BA
+selection_background #A6A2A2
+selection_foreground #FEDDD0
+background #2F2235
+foreground #CFD2CD
+
+url_color #9F86C0
+# url_color #843B62
+
+active_border_color #DCD0C0
+inactive_border_color #5C4E62
+active_tab_background #DCD0C0
+active_tab_foreground #5C4E62
+inactive_tab_background #5C4E62
+inactive_tab_foreground #CFD2CD
+
+#BLACK
+color0 #3F3244
+color8 #5C4E62
+#RED
+color1 #845E7A
+color9 #845E7A
+#GREEN
+color2 #A9ACA9
+color10 #A9ACA9
+#YELLOW
+color3 #C0B283
+color11 #DCD0C0
+#BLUE
+color4 #5E548E
+color12 #5E548E
+#MAGENTA
+color5 #9F86C0
+color13 #9F86C0
+#CYAN
+color6 #8391B0
+color14 #8391B0
+#WHITE
+color7 #E5E6E4
+color15 #E2E3E5
+

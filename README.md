@@ -1,0 +1,3 @@
+# Charoite
+
+![palette](palette.png)
