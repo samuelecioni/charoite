@@ -1,14 +1,13 @@
 # CHAROITE
 # samuele
 
-cursor #BFC3BA
-selection_background #A6A2A2
-selection_foreground #FEDDD0
 background #2F2235
 foreground #CFD2CD
 
-url_color #9F86C0
-# url_color #843B62
+cursor #BFC3BA
+selection_background #A6A2A2
+selection_foreground #FEDDD0
+url_color #843B62
 
 active_border_color #DCD0C0
 inactive_border_color #5C4E62
